@@ -1,4 +1,5 @@
 earth
 wind
+water
 fire
 other
